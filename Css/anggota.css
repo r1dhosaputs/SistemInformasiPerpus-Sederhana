@@ -1,0 +1,14 @@
+.input-width-costum {
+    /* Sesuaikan lebar input sesuai kebutuhan */
+    width: 350px;
+    /* Contoh: lebar input 200px */
+}
+
+#costum-img-size {
+    width: 150px;
+    height: 150px;
+}
+
+.costumheighticon {
+    height: 19px;
+}

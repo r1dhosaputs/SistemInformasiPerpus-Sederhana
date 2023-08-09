@@ -1,0 +1,62 @@
+body {
+    background-color: #eaeaea;
+}
+
+div#costummargin {
+    margin-top: 15rem;
+}
+
+.container-fluid.main-costum {
+    padding: 0;
+}
+
+.container-fluid.main-costum #image {
+    background-image: url(https://anievo.id/wp-content/uploads/2022/02/itsuki0.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    padding: 0;
+    filter: brightness(40%);
+}
+
+.card-img-overlay {
+    top: 15rem;
+    left: 2rem;
+}
+
+
+.costum-scale {
+    transform: scale(2);  
+}
+
+.costum-scale:hover {
+   color: #ffff;
+}
+
+/* scroll bar */
+/* untuk firefox sekalian */
+::-webkit-scrollbar {
+    width: 12px;
+    scrollbar-width: thin;
+    background-color: #0D6EFD;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #eaeaea;
+    scrollbar-color: #eaeaea transparent;
+}
+
+nav {
+    position: absolute;
+    z-index: 9999999999999999999999;
+}
+
+
+
+
+
+       
