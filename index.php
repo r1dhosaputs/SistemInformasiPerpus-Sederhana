@@ -163,9 +163,6 @@ if (!isset($_SESSION["login"])) {
 
     <?php endif; ?>
 
-    <?php
-    var_dump($_COOKIE); 
-    ?>
     <!-- <div class="container mt-5">
         <div class="row">
             <div class="col-md-12">
